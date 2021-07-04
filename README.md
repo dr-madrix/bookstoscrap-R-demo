@@ -1,4 +1,4 @@
-# booktoscrap-R-demo
+# bookstoscrap-R-demo
 
 Web scrapping, limpieza y visualización de datos con información de [https://books.toscrape.com/](https://books.toscrape.com/) utilizando R con funciones de:
 
