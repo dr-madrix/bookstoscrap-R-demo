@@ -8,7 +8,7 @@ Web scrapping, limpieza y visualización de datos con información de [https://b
 * `ggplot2` + `extrafont`+ `scales` 
 * `here`
 
-https://books.toscrape.com/ es un sitio diseñado para practicar cosas de web scrapping, su información es ficticcia pero útil para hacer prácticas como estas 🤖
+https://books.toscrape.com/ es un sitio diseñado para practicar cosas de web scrapping; su información es ficticcia, pero útil para hacer prácticas como estas 🤖
 
 
 
