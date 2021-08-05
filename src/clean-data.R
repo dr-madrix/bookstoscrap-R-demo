@@ -1,7 +1,6 @@
 rm(list = ls())
 
 if(!require(pacman)){install.packages("pacman")}
-require(pacman)
 p_load(tidyverse, here)
 
 # Archivero
